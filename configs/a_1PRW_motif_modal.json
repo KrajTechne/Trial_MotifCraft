@@ -1,0 +1,20 @@
+{
+    "design_path": "./outputs/1PRW/",
+    "binder_name": "a_1PRW",
+    "starting_pdb": "targets/1PRW.pdb",
+    "design_chain": "A",
+    "target_chain": "",
+    "chains": "A",
+    "target_hotspot_residues": "",
+    "lengths": [
+        60,
+        105
+    ],
+    "number_of_final_designs": 10,
+    "partial": "True",
+    "backbone_constrained_residues": "A1-20,A21-40",
+    "fix_sequence_residues": "A5,A7,A9,A11-12,A16,A25,A27,A29,A31,A36",
+    "partial_loops_len": [
+        [5,20],[10,25],[5,20]
+    ]
+}

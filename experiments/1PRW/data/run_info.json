@@ -1,0 +1,10 @@
+{
+  "app_id": "ap-xDtCaxFEQPinJSQr6N4IGD",
+  "function_call_id": "fc-01M5JVFR9KBWCC80DSG4E3P6XC",
+  "started": "2026-10-22T17:25:08",
+  "settings": "settings_target/a_1PRW_motif_modal.json",
+  "pdb": "targets/1PRW.pdb",
+  "filters": "settings_filters/default_filters_partial.json",
+  "advanced": "settings_advanced/default_4stage_multimer_partial_af2.json",
+  "gpu": "default"
+}
