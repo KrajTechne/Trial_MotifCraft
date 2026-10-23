@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# scratch output of modal_app.py (run_info.json per launch)
+outputs/
+
+# per experiment: logs and raw MPNN FASTAs are local only; CSVs, notes and run_info stay
+experiments/**/logs/
+experiments/**/data/Sequences/
