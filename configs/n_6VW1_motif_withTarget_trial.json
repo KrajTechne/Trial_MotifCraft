@@ -1,0 +1,14 @@
+{
+    "design_path": "/scicore/home/schwede/follon0000/MotifCraft/example/n_6VW1_motif_withTarget/",
+    "binder_name": "n_6VW1",
+    "starting_pdb": "/scicore/home/schwede/follon0000/MotifCraft/example/n_6VW1_withTarget.pdb",
+    "design_chain": "B",
+    "target_chain": "A",
+    "target_hotspot_residues": "",
+    "lengths": [62, 83],
+    "number_of_final_designs": 5,
+    "partial": "True",
+    "backbone_constrained_residues": "A1-111,B1-19,B20-38",
+    "fix_sequence_residues": "A1-111,B1,B4-5,B8,B12",
+    "partial_loops_len": [[20,30],[4,10],[0,5]]
+}
